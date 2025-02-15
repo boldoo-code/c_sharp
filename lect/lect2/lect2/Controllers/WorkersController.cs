@@ -48,7 +48,7 @@ namespace lect2.Controllers
         // GET: Workers/Create
         public IActionResult Create()
         {
-            ViewData["Bid"] = new SelectList(_context.Branches, "Bid", "Bid");
+            ViewData["Bid"] = new SelectList(_context.Branches, "Bid", "Bname");
             return View();
         }
 

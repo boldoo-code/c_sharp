@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mandakh\\3kurs\\havar\\c#\\lect\\lect2\\lect2\\lect2.csproj": {}
+    "D:\\c#\\lect\\lect2\\lect2\\lect2.csproj": {}
   },
   "projects": {
-    "D:\\mandakh\\3kurs\\havar\\c#\\lect\\lect2\\lect2\\lect2.csproj": {
+    "D:\\c#\\lect\\lect2\\lect2\\lect2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mandakh\\3kurs\\havar\\c#\\lect\\lect2\\lect2\\lect2.csproj",
+        "projectUniqueName": "D:\\c#\\lect\\lect2\\lect2\\lect2.csproj",
         "projectName": "lect2",
-        "projectPath": "D:\\mandakh\\3kurs\\havar\\c#\\lect\\lect2\\lect2\\lect2.csproj",
+        "projectPath": "D:\\c#\\lect\\lect2\\lect2\\lect2.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\mandakh\\3kurs\\havar\\c#\\lect\\lect2\\lect2\\obj\\",
+        "outputPath": "D:\\c#\\lect\\lect2\\lect2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

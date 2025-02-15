@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OV2NsG7K+b0=",
+  "dgSpecHash": "PdH3s5FpnIk=",
   "success": true,
-  "projectFilePath": "D:\\mandakh\\3kurs\\havar\\c#\\lect\\lect2\\lect2\\lect2.csproj",
+  "projectFilePath": "D:\\c#\\lect\\lect2\\lect2\\lect2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

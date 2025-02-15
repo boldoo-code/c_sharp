@@ -7,11 +7,10 @@ namespace lect2.Models;
 public partial class Worker
 {
     public int Wid { get; set; }
-    [Required(ErrorMessage = "Worker name is required")]
+
+    [Display(Name ="Ажилтан")]
     public string? Wname { get; set; }
-    [Required(ErrorMessage = "Bid is required")]
-
     public int Bid { get; set; }
-
+    [Display(Name = "Салбар")]
     public virtual Branch? BidNavigation { get; set; } = null!;
 }
